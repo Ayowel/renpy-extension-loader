@@ -1,5 +1,5 @@
 label start:
-    "Hi, if you added an extension in the game/ren-ext subdirectory, it should have loaded."
+    "Hi, if you added an extension in the game/extensions subdirectory, it should have loaded."
     "Exiting soon..."
     $ renpy.quit()
 
